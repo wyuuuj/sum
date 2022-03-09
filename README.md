@@ -92,11 +92,16 @@ Here listing papers in the past 3 years(2019-2021) about text summarization
 
 [2021] Exploring Multitask Learning for Low-Resource AbstractiveSummarization [[paper]](https://arxiv.org/pdf/2109.08565)
 
-[2020]
+[2020] Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization [[paper]](https://arxiv.org/pdf/2004.13983)
 
-[2020]
+[2020] Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers [[paper]](https://arxiv.org/pdf/2010.08242) [[code]](https://github.com/xssstory/STAS)
 
-[2020]
+[2020] Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network [[paper]](https://aclanthology.org/2020.emnlp-main.295.pdf) [[code]](http://github.com/coder352/HAHSum)
+
+
+
+
+
 
 
 ## IJCAI
