@@ -16,6 +16,15 @@ This is a repo listing papers in the past 3 years about text summarization
 
 [2020] SemSUM: Semantic Dependency Guided Neural Abstractive Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6312/6168) [[code]](https://github.com/zhongxia96/SemSUM)
 
+[2020] Document Summarization with VHTM: Variational Hierarchical Topic-Aware Mechanism [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6277/6133)
+
+[2020] Controlling the Amount of Verbatim Copying in Abstractive Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6420/6276) [[code]](https://github.com/ucfnlp/control-over-copying)
+
+[2020] Keywords-Guided Abstractive Sentence Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6333/6189)
+
+[2020] Joint Parsing and Generation for Abstractive Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6419/6275) [[code]](https://github.com/ucfnlp/joint-parse-n-summarize)
+
+[2019] DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4679/4557) [[code]](https://github.com/lliangchenc/DeepChannel)
 
 
 
