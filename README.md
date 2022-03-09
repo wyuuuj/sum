@@ -12,6 +12,14 @@ This is a repo listing papers in the past 3 years about text summarization
 
 [2021] Simcls: A simple framework for contrastive learning of abstractive summarization [[paper]](https://arxiv.org/pdf/2106.01890.pdf) [[code]](https://github.com/yixinL7/SimCLS)
 
+[2021] LenAtten: An Effective Length Controlling Unit For Text Summarization [[paper]](https://arxiv.org/pdf/2106.00316.pdf) [[code]](https://arxiv.org/pdf/2106.00316.pdf)
+
+[2021] Long-Span Summarization via Local Attention and Content Selection [[paper]](https://arxiv.org/pdf/2105.03801.pdf) [[code]](https://github.com/potsawee/longsum0)
+
+[2020] Discourse-Aware Neural Extractive Text Summarization [[paper]](https://arxiv.org/pdf/1910.14142.pdf) [[code]](https://github.com/jiacheng-xu/DiscoBERT)
+
+[2020] Heterogeneous Graph Neural Networks for Extractive Document Summarization [[paper]](https://arxiv.org/pdf/2004.12393.pdf) [[code]](https://github.com/brxx122/HeterSUMGraph)
+
 
 
 
