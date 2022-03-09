@@ -28,9 +28,19 @@ This is a repo listing papers in the past 3 years about text summarization
 
 [2020] Composing Elementary Discourse Units in Abstractive Summarization [[paper]](https://aclanthology.org/2020.acl-main.551.pdf) [[code]](https://github.com/PKUTANGENT/EDUSum)
 
+[2019] Self-Supervised Learning for Contextualized Extractive Summarization [[paper]](https://arxiv.org/pdf/1906.04466.pdf) [[code]](https://github.com/hongwang600/Summarization)
 
+[2019] BiSET: Bi-directional Selective Encoding with Template for Abstractive Summarization [[paper]](https://arxiv.org/pdf/1906.05012.pdf) [[code]](https://github.com/InitialBug/BiSET)
 
+[2019] Abstractive Text Summarization Based on Deep Learning and Semantic Content Generalization [[paper]](https://aclanthology.org/P19-1501.pdf)
 
+[2019] Global Optimization under Length Constraint for Neural Text Summarization [[paper]](https://aclanthology.org/P19-1099.pdf) [[code]](https://github.com/taku910/mecab)
+
+[2019] Simple Unsupervised Summarization by Contextual Matching [[paper]](https://arxiv.org/pdf/1907.13337) [[code]](https://github.com/jzhou316/Unsupervised-Sentence-Summarization)
+
+[2019] HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization [[paper]](https://arxiv.org/pdf/1905.06566)
+
+[2019]
 
 
 
