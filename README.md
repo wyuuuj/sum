@@ -1,5 +1,5 @@
 # Text Summarization
-This is a repo listing papers in the past 3 years about text summarization
+This is a repo listing papers in the past 3 years(2019-2021) about text summarization
 
 <br>
 
@@ -26,6 +26,9 @@ This is a repo listing papers in the past 3 years about text summarization
 
 [2019] DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4679/4557) [[code]](https://github.com/lliangchenc/DeepChannel)
 
+[2019] A Multi-Task Learning Framework for Abstractive Text Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5130/5003) [[code]](https://github.com/yaolu/MATS)
+
+[2019] Exploring Human-Like Reading Strategy for Abstractive Text Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4724/4602)
 
 
 ## ACL
@@ -70,7 +73,30 @@ This is a repo listing papers in the past 3 years about text summarization
 [2019] Improving Abstractive Document Summarization with Salient Information Modeling [[paper]](https://aclanthology.org/P19-1205.pdf)
 
 
+## COLING
+[2020] Each kernel optimizes a human-interpretable syntactic or semantic property [[paper]](https://arxiv.org/pdf/2002.07845)
 
+[2020] Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks [[paper]](https://arxiv.org/pdf/2010.06253)
+
+[2020] Fact-level Extractive Summarization with Hierarchical Graph Mask on BERT [[paper]](https://arxiv.org/pdf/2011.09739) [[code]](https://github.com/Ruifeng-paper/FactExsum-coling2020)
+
+
+## EMNLP
+[2021]
+
+[2021]
+
+[2021]
+
+[2021]
+
+[2021]
+
+[2021]
+
+[2021]
+
+[2021]
 
 
 ## IJCAI
