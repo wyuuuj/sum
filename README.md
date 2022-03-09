@@ -2,7 +2,15 @@
 This is a repo listing papers in the past 3 years about text summarization
 
 <br>
-  
+
+## AAAI
+[2021] Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17552/17359) [[code]](https://github.com/coder352/ThresSum)
+
+
+
+
+
+
 ## ACL
 [2021] Deep Differential Amplifier for Extractive Summarization [[paper]](https://aclanthology.org/2021.acl-long.31.pdf)
 
@@ -40,12 +48,16 @@ This is a repo listing papers in the past 3 years about text summarization
 
 [2019] HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization [[paper]](https://arxiv.org/pdf/1905.06566)
 
-[2019]
+[2019] Searching for Effective Neural Extractive Summarization: What Works and What's Next [[paper]](https://arxiv.org/pdf/1907.03491.pdf) [[code]](https://github.com/fastnlp/fastNLP)
+
+[2019] Improving Abstractive Document Summarization with Salient Information Modeling [[paper]](https://aclanthology.org/P19-1205.pdf)
 
 
 
-<br>
 
+
+## IJCAI
+[2020] Neural Abstractive Summarization with Structural Attention [[paper]](https://arxiv.org/pdf/2004.09739) [code]
 
 
 ## NeurIPS
