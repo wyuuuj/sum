@@ -6,8 +6,11 @@ This is a repo listing papers in the past 3 years about text summarization
 ## AAAI
 [2021] Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17552/17359) [[code]](https://github.com/coder352/ThresSum)
 
+[2021] Contextualized Rewriting for Text Summarization [[paper]](https://arxiv.org/pdf/2102.00385) [[code]](https://github.com/baoguangsheng/ctx-rewriter-for-summ)
 
+[2021] Meta-Transfer Learning for Low-Resource Abstractive Summarization [[paper]](https://arxiv.org/pdf/2102.09397) [[code]](https://github.com/YiSyuanChen/MTL-ABS)
 
+[2021] Exploring Explainable Selection to Control Abstractive Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17641/17448) [[code]](https://github.com/Wanghn95/Esca_Cod)
 
 
 
