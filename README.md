@@ -20,6 +20,17 @@ This is a repo listing papers in the past 3 years about text summarization
 
 [2020] Heterogeneous Graph Neural Networks for Extractive Document Summarization [[paper]](https://arxiv.org/pdf/2004.12393.pdf) [[code]](https://github.com/brxx122/HeterSUMGraph)
 
+[2020] Extractive Summarization as Text Matching [[paper]](https://arxiv.org/pdf/2004.08795.pdf) [[code]](https://github.com/maszhongming/MatchSum)
+
+[2020] Self-Attention Guided Copy Mechanism for Abstractive Summarization [[paper]](https://aclanthology.org/2020.acl-main.125.pdf)
+
+[2020] Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward [[paper]](https://arxiv.org/pdf/2005.01159.pdf) [[code]](https://github.com/luyang-huang96/GraphAugmentedSum)
+
+[2020] Composing Elementary Discourse Units in Abstractive Summarization [[paper]](https://aclanthology.org/2020.acl-main.551.pdf) [[code]](https://github.com/PKUTANGENT/EDUSum)
+
+
+
+
 
 
 
