@@ -12,6 +12,11 @@ This is a repo listing papers in the past 3 years about text summarization
 
 [2021] Exploring Explainable Selection to Control Abstractive Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17641/17448) [[code]](https://github.com/Wanghn95/Esca_Cod)
 
+[2020] Copy or Rewrite: Hybrid Summarization with Hierarchical Reinforcement Learning [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6470/6326)
+
+[2020] SemSUM: Semantic Dependency Guided Neural Abstractive Summarization [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6312/6168) [[code]](https://github.com/zhongxia96/SemSUM)
+
+
 
 
 ## ACL
