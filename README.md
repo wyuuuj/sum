@@ -1,5 +1,5 @@
 # Text Summarization
-Here listing papers in the past 3 years(2019-2021) about text summarization
+Following are papers in the past 3 years(2019-2021) about text summarization
 
 <br>
 
