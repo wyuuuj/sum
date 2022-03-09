@@ -82,15 +82,15 @@ This is a repo listing papers in the past 3 years(2019-2021) about text summariz
 
 
 ## EMNLP
-[2021]
+[2021] Multiplex Graph Neural Network for Extractive Text Summarization [[paper]](https://arxiv.org/pdf/2108.12870)
 
-[2021]
+[2021] HETFORMER: Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization [[paper]](https://arxiv.org/pdf/2110.06388) [[code]](https://github.com/yeliu918/HETFORMER)
 
-[2021]
+[2021] Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer [[paper]](https://aclanthology.org/2021.emnlp-main.330.pdf）
 
-[2021]
+[2021] Enriching and Controlling Global Semantics for Text Summarization [[paper]](https://arxiv.org/pdf/2109.10616)
 
-[2021]
+[2021] Exploring Multitask Learning for Low-Resource AbstractiveSummarization [[paper]](https://arxiv.org/pdf/2109.08565)
 
 [2021]
 
