@@ -112,8 +112,7 @@ Following are papers in the past 3 years(2019-2021) about text summarization
 
 [2020] Modeling Content Importance for Summarization with Pre-trained Language Models [[paper]](https://aclanthology.org/2020.emnlp-main.293.pdf)
 
-[2020] Learning to Fuse Sentences with Transformers for Summarization [[paper]](https://arxiv.org/pdf/2010.03726) [[code]](https://github.com/
-ucfnlp/sent-fusion-transformers)
+[2020] Learning to Fuse Sentences with Transformers for Summarization [[paper]](https://arxiv.org/pdf/2010.03726) [[code]](https://github.com/ucfnlp/sent-fusion-transformers)
 
 [2020] Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach [[paper]](https://arxiv.org/pdf/2010.06792) [[code]](https://github.com/tanyuqian/aspect-based-summarization)
 
