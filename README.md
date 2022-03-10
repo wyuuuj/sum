@@ -100,7 +100,7 @@ Following are papers in the past 3 years(2019-2021) about text summarization
 
 [2020] Stepwise Extractive Summarization and Planning with Structured Transformers [[paper]](https://arxiv.org/pdf/2010.02744) [[code]](https://github.com/google-research/google-research/tree/master/etcsum)
 
-
+[2020] Friendly Topic Assistant for Transformer Based Abstractive Summarization [[paper]](https://aclanthology.org/2020.emnlp-main.35.pdf) [[code]](https://github.com/BoChenGroup/TA)
 
 
 
