@@ -102,6 +102,23 @@ Following are papers in the past 3 years(2019-2021) about text summarization
 
 [2020] Friendly Topic Assistant for Transformer Based Abstractive Summarization [[paper]](https://aclanthology.org/2020.emnlp-main.35.pdf) [[code]](https://github.com/BoChenGroup/TA)
 
+[2020] On Extractive and Abstractive Neural Document Summarization with Transformer Language Models [[paper]](https://aclanthology.org/2020.emnlp-main.748.pdf)
+
+[2020] Q-learning with Language Model for Edit-based Unsupervised Summarization [[paper]](https://arxiv.org/pdf/2010.04379) [[code]](https://github.com/kohilin/ealm)
+
+[2020] TED: A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising [[paper]](https://arxiv.org/pdf/2001.00725)
+
+[2020] Modeling Content Importance for Summarization with Pre-trained Language Models [[paper]](https://aclanthology.org/2020.emnlp-main.293.pdf)
+
+[2020] Learning to Fuse Sentences with Transformers for Summarization [[paper]](https://arxiv.org/pdf/2010.03726) [[code]](https://github.com/
+ucfnlp/sent-fusion-transformers)
+
+[2020] Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach [[paper]](https://arxiv.org/pdf/2010.06792) [[code]](https://github.com/tanyuqian/aspect-based-summarization)
+
+[2019] 
+
+
+
 
 
 ## IJCAI
