@@ -92,6 +92,8 @@ Following are papers in the past 3 years(2019-2021) about text summarization
 
 [2021] Exploring Multitask Learning for Low-Resource AbstractiveSummarization [[paper]](https://arxiv.org/pdf/2109.08565)
 
+[2021] Decision-Focused Summarization [[paper]](https://arxiv.org/pdf/2109.06896) [[code]](https://github.com/chicagohai/decsum)
+
 [2020] Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization [[paper]](https://arxiv.org/pdf/2004.13983)
 
 [2020] Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers [[paper]](https://arxiv.org/pdf/2010.08242) [[code]](https://github.com/xssstory/STAS)
