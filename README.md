@@ -1,7 +1,14 @@
 # Text Summarization
 Following are papers in the past 3 years(2019-2021) about text summarization
 
-<br>
+| |Total|2021|2020|2019|
+|:---|:---|:---|:---|:---|
+|AAAI|13|4|6|3|
+|ACL|19|6|5|8|
+|COLING|3|0|3|0|
+|EMNLP|25|7|11|7|
+|IJCAI|1|0|1|0|
+|NeurIPS|2|1|1|0|
 
 ## AAAI
 [2021] Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17552/17359) [[code]](https://github.com/coder352/ThresSum)
