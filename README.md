@@ -94,6 +94,8 @@ Following are papers in the past 3 years(2019-2021) about text summarization
 
 [2021] Decision-Focused Summarization [[paper]](https://arxiv.org/pdf/2109.06896) [[code]](https://github.com/chicagohai/decsum)
 
+[2021] CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization [[paper]](https://arxiv.org/pdf/2109.09209) [[code]](https://shuyangcao.github.io/projects/cliff_summ)
+
 [2020] Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization [[paper]](https://arxiv.org/pdf/2004.13983)
 
 [2020] Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers [[paper]](https://arxiv.org/pdf/2010.08242) [[code]](https://github.com/xssstory/STAS)
@@ -116,11 +118,19 @@ Following are papers in the past 3 years(2019-2021) about text summarization
 
 [2020] Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach [[paper]](https://arxiv.org/pdf/2010.06792) [[code]](https://github.com/tanyuqian/aspect-based-summarization)
 
-[2019] 
+[2019] Extractive Summarization of Long Documents by Combining Global and Local Context [paper](https://arxiv.org/pdf/1909.08089) [[code]](https://github.com/Wendy-Xiao/Extsumm_local_global_context)
 
+[2019] Reading Like HER: Human Reading Inspired Extractive Summarization [[paper]](https://aclanthology.org/D19-1300.pdf)
 
+[2019] Neural Extractive Text Summarization with Syntactic Compression [[paper]](https://arxiv.org/pdf/1902.00863) [[code]](https://github.com/jiacheng-xu/neu-compression-sum)
 
+[2019] Concept Pointer Network for Abstractive Summarization [[paper]](https://aclanthology.org/D19-1304.pdf) [[code]](https://github.com/wprojectsn/codes)
 
+[2019] Contrastive Attention Mechanism for Abstractive Sentence Summarization [[paper]](https://arxiv.org/pdf/1910.13114) [[code]](https://github.com/travel-go/Abstractive-Text-Summarization)
+
+[2019] Text Summarization with Pretrained Encoders [[paper]](https://arxiv.org/pdf/1908.08345) [[code]](https://github.com/nlpyang/PreSumm)
+
+[2019] Attention Optimization for Abstractive Document Summarization [[paper]](https://arxiv.org/pdf/1910.11491)
 
 ## IJCAI
 [2020] Neural Abstractive Summarization with Structural Attention [[paper]](https://arxiv.org/pdf/2004.09739) [code]
